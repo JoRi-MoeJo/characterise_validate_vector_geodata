@@ -1,11 +1,5 @@
 Plugin Builder Results
 
-Your plugin ValidateGeodata was created in:
-    D:/Jo/PythonProjekte/QGIS\geodata_validation
-
-Your QGIS plugin directory is located at:
-    C:/Users/footb/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
-
 What's Next:
 
   * Copy the entire directory containing your new plugin to the QGIS plugin
