@@ -65,7 +65,7 @@ PEP8EXCLUDE=pydev,resources.py,conf.py,third_party,ui
 #	* Windows:
 #	  AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins'
 
-QGISDIR=C:\Users\footb\AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
+QGISDIR=
 
 #################################################
 # Normally you would not need to edit below here
